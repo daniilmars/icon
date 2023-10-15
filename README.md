@@ -1,0 +1,2 @@
+# icon
+Intelligent Condition Monitoring
